@@ -1,0 +1,12 @@
+$ git init
+
+$git remote add origin https://github.com/zoezhan2015/samplespace.git
+
+
+$ git pull origin master
+
+$ git add in.txt
+
+$ git commit -m "123"
+
+$ git push origin master
